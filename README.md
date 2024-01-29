@@ -16,7 +16,7 @@ This video was taken while I was training the a.i.
 You can see in [the video linked below](https://youtu.be/86aRFeI_Tys) the poor man falling asleep with the yellow control box in his hand.
 
 
-<a href="https://youtu.be/86aRFeI_Tys" target="_blank"><img src="/JobNotForHumans.jpg"
+<a href="https://youtu.be/86aRFeI_Tys" target="_blank"><img src="/JobNotForHumans.jpg"/>
 
 This was the guy responsible for pressing the button 8 hours a day to reject packages from the conveyor if they were all bunched up and clustered together.
 He was my motivation for building the a.i..
