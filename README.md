@@ -26,9 +26,9 @@ https://youtu.be/Pq97KxsR0aI
 If you stop the video at the right moments you can see the clustered packages surrounded by a red bounding box and labeled with the word "Cluster"
 When these are detected, the a.i. triggers a relay in the USB port of the host computer which effectively pushes the same button that the poor sleepy fellow was pushing on his yellow control box.
 
-![image|1000x406](relay.jpeg)
+![image|1000x406](relay.jpg)
 
-<img src="/relay.jpeg">
+<img src="/relay.jpg">
 
 **The Insight And The Idea:**
 So you may be wondering, what does this have to do with an identity solution that can prove you are human, that you have the right to vote in a given jurisdiction, that you have not yet cast your ballot, and all without revealing your identity or biometric data?
