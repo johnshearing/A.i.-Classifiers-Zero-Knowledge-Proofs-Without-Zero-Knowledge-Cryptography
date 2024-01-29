@@ -28,6 +28,8 @@ When these are detected, the a.i. triggers a relay in the USB port of the host c
 
 ![image|1000x406](relay.jpeg)
 
+<img src="/relay.jpeg">
+
 **The Insight And The Idea:**
 So you may be wondering, what does this have to do with an identity solution that can prove you are human, that you have the right to vote in a given jurisdiction, that you have not yet cast your ballot, and all without revealing your identity or biometric data?
 
