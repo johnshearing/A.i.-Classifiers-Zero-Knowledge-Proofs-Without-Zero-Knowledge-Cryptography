@@ -13,8 +13,10 @@ My only job was to keep everything running but I got bored and built an a.i. sys
 Formerly this was done by humans and they hated the job because it required intense concentration and yet was very boring so it put them to sleep.
 
 This video was taken while I was training the a.i.
-You can see in the video linked below the poor man falling asleep with the yellow control box in his hand.
-https://youtu.be/86aRFeI_Tys
+You can see in [the video linked below](https://youtu.be/86aRFeI_Tys) the poor man falling asleep with the yellow control box in his hand.
+
+
+<a href="https://youtu.be/86aRFeI_Tys" target="_blank"><img src="/JobNotForHumans.jpg"
 
 This was the guy responsible for pressing the button 8 hours a day to reject packages from the conveyor if they were all bunched up and clustered together.
 He was my motivation for building the a.i..
@@ -27,8 +29,6 @@ If you stop the video at the right moments you can see the clustered packages su
 When these are detected, the a.i. triggers a relay in the USB port of the host computer which effectively pushes the same button that the poor sleepy fellow was pushing on his yellow control box.
 
 ![image|1000x406](relay.jpg)
-
-<img src="/relay.jpg">
 
 **The Insight And The Idea:**
 So you may be wondering, what does this have to do with an identity solution that can prove you are human, that you have the right to vote in a given jurisdiction, that you have not yet cast your ballot, and all without revealing your identity or biometric data?
