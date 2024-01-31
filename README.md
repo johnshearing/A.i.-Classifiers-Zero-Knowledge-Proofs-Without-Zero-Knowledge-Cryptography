@@ -70,7 +70,7 @@ If the training data is open source, and we all use the same seed for the pseudo
 
 This would prove there is nothing malicious in the neural network file and we would know exactly what data was used to train it.  
 
-So what we are providing to the authorities is proof that we are questioning a device that gives truthful answers and it is up to the user to decide what questions to ask.
+So what we are providing to the authorities is proof that we are questioning a device that gives truthful answers and it is up to the owner to decide what questions to ask.
 
 ***Proving Humanity, Citizenship, and whether or not a citizen has already cast a ballot all without revealing identity or biometric information remains an unsolved problem.***
 
