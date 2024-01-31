@@ -10,17 +10,14 @@ And That You Have Not Yet Cast Your Ballot,
 The last job I had before retiring was chief controls tech at a robotic sort center.
 My only job was to keep everything running but I got bored and built an a.i. system to detect bunched up packages and eject them from the system to prevent mis-sorting.
 
-Formerly this was done by humans and they hated the job because it required intense concentration and yet was very boring so it put them to sleep.
+Formerly this was done by humans and they hated the job because it required intense concentration and yet was very boring so it put them to sleep.   
 
-This video was taken while I was training the a.i.   
+This video was taken while I was training the a.i.    
 You can see in the video linked below the poor man falling asleep with the yellow control box in his hand.   
 
 <a href="https://youtu.be/86aRFeI_Tys" target="_blank"><img src="/JobNotForHumans.jpg"/>   
 
-This was the guy responsible for pressing the button 8 hours a day to reject packages from the conveyor if they were all bunched up and clustered together.   
-He was my motivation for building the a.i..   
-
-I wanted to relieve him so that he could do a job more fitting for humans.   
+This was the guy responsible for pressing the button 8 hours a day to reject packages from the conveyor if they were all bunched up and clustered together. He was my motivation for building the a.i.. I wanted to relieve him so that he could do a job more fitting for humans.   
 
 The video below shows the a.i. at work.   
 
