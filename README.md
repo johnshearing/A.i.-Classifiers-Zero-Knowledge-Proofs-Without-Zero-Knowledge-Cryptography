@@ -68,7 +68,9 @@ So in much the same way individuals now have hardware wallets as witnesses to pr
 
 If the training data is open source, and we all use the same seed for the pseudo-random number generator used to create the weights, and if the hardware is the same, and if we train the model on the data the same number of iterations, then it should be possible for citizens to produce the exact same neural network file with the same hash.
 
-This would prove there is nothing malicious in the neural network file and we would know exactly what data was used to train it.
+This would prove there is nothing malicious in the neural network file and we would know exactly what data was used to train it.  
+
+So what we are providing to the authorities is proof that we are questioning a device that gives truthful answers and it is up to the user to decide what questions to ask.
 
 ***Proving Humanity, Citizenship, and whether or not a citizen has already cast a ballot all without revealing identity or biometric information remains an unsolved problem.***
 
