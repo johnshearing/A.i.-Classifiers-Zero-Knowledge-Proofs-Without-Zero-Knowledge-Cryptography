@@ -19,6 +19,7 @@ You can see in the video linked below the poor man falling asleep with the yello
 
 This was the guy responsible for pressing the button 8 hours a day to reject packages from the conveyor if they were all bunched up and clustered together.
 He was my motivation for building the a.i..
+
 I wanted to relieve him so that he could do a job more fitting for humans.
 
 The video below shows the a.i. at work.
