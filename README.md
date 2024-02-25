@@ -77,6 +77,7 @@ And finally hashing the driver's license number and giving that hash to the auth
 
 It wouldn't matter if you lost your phone along with the a.i. because it doesn't store any information about you.  
 The only reason to use an a.i running on your own phone behind trusted hardware is to ensure that no one is keeping your biometrics or an image of your driver's license.  
+
 The a.i. is only a certified trusted witness known by the state to give truthful answers about the information it is looking at.  
 It is up to the owner to decide what questions to ask.  
 
