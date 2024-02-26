@@ -84,3 +84,26 @@ It is up to the owner to decide what questions to ask.
 ***Proving Humanity, Citizenship, and whether or not a citizen has already cast a ballot all without revealing identity or biometric information remains an unsolved problem.***
 
 ***Who will be the first to develop an open source, (citizen owned), a.i. identity solution for voting, governance, and financial systems - perhaps picking up the job where hardware wallets and other identity systems fall short?***
+
+Video by Charles Hoskinson on the importance of open source citizen owned AI  
+https://www.youtube.com/live/kWtco6wn67E  
+While Charles surely knows nothing about this idea, his recent video is clearly an endorsement for open source citizen owned a.i..  
+Better, he has called for hybrid developers who are fluid in both blockchain and a.i..   
+ 
+This pointer, provided by Charles led to all of the following resources below:  
+These resources create a path to move from idea to a workable solution.  
+https://erichartford.com/uncensored-models   
+
+This resource is by far the most interesting.  
+**Google Admits It Cannot Complete With Free and Open Source a.i.**   
+https://www.semianalysis.com/p/google-we-have-no-moat-and-neither  
+
+https://erichartford.com/running-dolphin-locally-with-ollama?source=more_articles_bottom_blogs  
+
+https://erichartford.com/built-with-dolphin?source=more_articles_bottom_blogs  
+
+https://erichartford.com/dolphin-25-mixtral-8x7b?source=more_articles_bottom_blogs  
+
+https://youtu.be/SGkaWMDKM9g?si=K641NqiefZhiRoq7  
+
+https://huggingface.co/  
