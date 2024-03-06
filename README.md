@@ -107,3 +107,21 @@ https://erichartford.com/dolphin-25-mixtral-8x7b?source=more_articles_bottom_blo
 https://youtu.be/SGkaWMDKM9g?si=K641NqiefZhiRoq7  
 
 https://huggingface.co/  
+
+
+**Soon Training An a.i. will not require GPUs.  
+This will open the process of training LLMs to regular citizens that don't have access to expensive GPUs**  
+
+https://youtu.be/Gtf3CxIRiPk?si=Odc_3pgUWTsDbgFO  
+
+https://youtu.be/jLg2ycOgSBU?si=wlJJc9GXbVsA8aH9  
+
+https://youtu.be/Zp8mKlKLphU?si=L-4Ge8YYq_ysC22S  
+
+https://arxiv.org/pdf/2402.17764.pdf  
+
+https://arxiv.org/pdf/2310.11453.pdf  
+
+**Special Ternary Hardware Must Be Developed In Order To Take Full Advantage Of The Process**  
+https://g.co/gemini/share/4a78735a9115
+
