@@ -109,8 +109,8 @@ https://youtu.be/SGkaWMDKM9g?si=K641NqiefZhiRoq7
 https://huggingface.co/  
 
 
-**Soon Training An a.i. will not require GPUs.  
-This will open the process of training LLMs to regular citizens that don't have access to expensive GPUs**  
+**Soon Training An a.i. Will Not Require GPUs.  
+This will open the process of training LLMs to regular citizens in the open source community that don't have access to expensive GPUs**  
 
 https://youtu.be/Gtf3CxIRiPk?si=Odc_3pgUWTsDbgFO  
 
