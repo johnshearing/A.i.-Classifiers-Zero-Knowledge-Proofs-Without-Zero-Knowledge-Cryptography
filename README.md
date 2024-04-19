@@ -125,3 +125,17 @@ https://arxiv.org/pdf/2310.11453.pdf
 **Special Ternary Hardware Must Be Developed In Order To Take Full Advantage Of The Process**  
 https://g.co/gemini/share/4a78735a9115
 
+
+I haven't heard anyone talking about this yet but I would expect to hear a lot of buzz about this soon:
+
+The recent advance in machine learning mentioned above should break down the barrier to using a.i. together with zero knowledge proofs. 
+
+**First the application to Sovereign KYC and Anonymous Voting:**
+Imagine a human shows up to vote. 
+The human is told to make a video using their smartphone where they perform a random set of instructions like repeating a unique sentence. This records biometric data such as appearance and voice. Then the human takes a photo of their own driver's license. The video and photo are encrypted into a Zero Knowledge Proof while still on the phone and then the proof is emailed to the government a.i.. The a.i. provides a proof to the voting authorities that the classification it returns (Citizen who has not voted or Citizen who has already voted) has been run on the government's approved neural network.
+**The a.i. classification and following zero knowledge proof is processed without ever decrypting the message**.
+So the government a.i. certifies that you have the right, or do not have the right to vote, without ever knowing who you are.
+Sovereign KYC and Anonymous Voting
+
+The problem which prevents Zero Knowledge Machine Learning is that a.i. models must be translated into zkCircuits. And a.i. models currently use expensive floating point arithmetic to manage the weights whereas zkCircuits require smaller fixed point notation. This makes the translation prohibitively expensive for all but the smallest a.i. models. It just dawned on me that the solution may be very close at hand. Recently I reported above that it is now possible to create a.i. models using fixed point notation. The big news was that this makes it possible to train a.i. models without expensive GPUs. But there is another benefit that I have not heard anyone talking about yet - Now a.i. models can be created using the exact same type of numbers which are required to translate them into zkCircuits. So we now may be very close to Sovereign KYC and Anonymous Voting using Zero Knowledge Machine Learning (ZKML). And because expensive GPUs are not required, anyone can play! I am going to jump in and learn about training an a.i. model using fixed point notation math and converting it to a zkCircuit. I will report my progress as things unfold. These are exciting times with endless opportunity for all of us.
+
