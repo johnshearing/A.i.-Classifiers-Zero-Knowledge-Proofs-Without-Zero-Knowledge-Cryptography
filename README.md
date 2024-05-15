@@ -1,3 +1,5 @@
+<a href="https://johnshearing.github.io/">Main list of projects</a>  
+
 **Portable a.i witness attests to humanity, membership, ownership and status without leaking identity or personal data.**
 
 **Problem Statement:**  
