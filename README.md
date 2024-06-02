@@ -114,6 +114,8 @@ https://huggingface.co/
 **Soon Running An a.i. Will Not Require GPUs.  
 This will open the process of running LLMs to regular citizens in the open source community that don't have access to expensive GPUs**  
 
+https://youtu.be/MXWlB9nDAFU?si=uiLs__JX72egVikv
+
 https://youtu.be/Gtf3CxIRiPk?si=Odc_3pgUWTsDbgFO  
 
 https://youtu.be/jLg2ycOgSBU?si=wlJJc9GXbVsA8aH9  
@@ -139,5 +141,5 @@ The human is told to make a video using their smartphone where they perform a ra
 So the government a.i. certifies that you have the right, or do not have the right to vote, without ever knowing who you are.
 Sovereign KYC and Anonymous Voting
 
-The problem which prevents Zero Knowledge Machine Learning is that a.i. models must be translated into zkCircuits. And a.i. models currently use expensive floating point arithmetic to manage the weights whereas zkCircuits require smaller fixed point notation. This makes the translation prohibitively expensive for all but the smallest a.i. models. It just dawned on me that the solution may be very close at hand. Recently I reported above that it is now possible to create a.i. models using fixed point notation. The big news was that this makes it possible to run a.i. models without expensive GPUs. But there is another benefit that I have not heard anyone talking about yet - Now a.i. models can be created using the exact same type of numbers which are required to translate them into zkCircuits. So we now may be very close to Sovereign KYC and Anonymous Voting using Zero Knowledge Machine Learning (ZKML). And because expensive GPUs are not required, anyone can play! I am going to jump in and learn about training an a.i. model using fixed point notation math and converting it to a zkCircuit. I will report my progress as things unfold. These are exciting times with endless opportunity for all of us.
+The problem which prevents Zero Knowledge Machine Learning is that a.i. models must be translated into zkCircuits. And a.i. models currently use expensive floating point arithmetic to manage the weights whereas zkCircuits require smaller fixed point notation. This makes the translation prohibitively expensive for all but the smallest a.i. models. It just dawned on me that the solution may be very close at hand. Recently I reported above that it is now possible to run a.i. models using fixed point notation. The big news was that this makes it possible to run a.i. models without expensive GPUs. But there is another benefit that I have not heard anyone talking about yet - Now a.i. models can be run using the exact same type of numbers which are required to translate them into zkCircuits. So we now may be very close to Sovereign KYC and Anonymous Voting using Zero Knowledge Machine Learning (ZKML). And because expensive GPUs are not required, anyone can play! I am going to jump in and learn about running an a.i. model using fixed point notation math and converting it to a zkCircuit. I will report my progress as things unfold. These are exciting times with endless opportunity for all of us.
 
